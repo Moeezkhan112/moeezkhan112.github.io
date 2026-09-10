@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://moeezkhan112.github.io/sitemap.xml
